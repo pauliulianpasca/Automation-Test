@@ -27,7 +27,7 @@ Performing a login test on the LinkedIn page to verify if chat button exists, bu
 -----------------
 **Google**
 
-Search bar test, I searched for 'vlog de it' and checked if there are any results." 
+Search bar test, I searched for 'vlog de it' and checked if there are any results.
 
 **Alte-Teste**
 
